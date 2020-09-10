@@ -1,5 +1,7 @@
 # colour-package-python-
-A easy to use python package to change colour  output on terminal
+A easy to use python package to change colour  output on terminal.
+To call the colour package you must copy the color.py script to a folder 
+with your python project to call it and use it!
 
 
 # Version 1.0
