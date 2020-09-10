@@ -10,14 +10,14 @@ In version 2.0 I will adding a Highlighting abilty!
 BLACK RED GREEN YELLOW BLUEMAGENTA CYAN WHITE UNDERLINE RESET 
 
 # Usage:
-from color import s
+``from color import s``
 
-print(s.RED+'ERROR')
+``print(s.RED+'ERROR')``
 
 
 
 # Easy Use: [eu]
 
-from color import eu
+``from color import eu``
 
-print(eu.R+'Error')
+``print(eu.R+'Error')``
