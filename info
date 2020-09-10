@@ -1,0 +1,28 @@
+Copyright 2020 NEO-----Color
+----------------------------------------
+for example on useage go to example.py
+Only works in the TERMINAL
+--------------------------------------
+
+Supported Colors:
+    BLACK 
+    RED 
+    GREEN 
+    YELLOW 
+    BLUE 
+    MAGENTA 
+    CYAN 
+    WHITE 
+    UNDERLINE
+    RESET 
+------------------------------------------
+
+Usage:
+from color import s
+print(s.RED+'ERROR')
+
+
+----------------------------------------
+Easy Use: [eu]
+from color import eu
+print(eu.R+'Error')
